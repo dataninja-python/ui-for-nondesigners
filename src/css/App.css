@@ -1,5 +1,6 @@
 @charset "UTF-8";
-@import './normalize.css';
+@import "./reset.css";
+@import "./normalize.css";
 /*
 * Skeleton V2.0.4
 * Copyright 2014, Dave Gamache

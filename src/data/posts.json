@@ -1,0 +1,35 @@
+[
+  {
+    "ID": 1,
+    "NAME": "John Doe",
+    "USERNAME": "johndoe1999",
+    "EMAIL": "johndoe1999@gmail.com",
+    "USER_RATING": 3.89,
+    "POST_ID": 2367,
+    "POST_CONTENT": "Check out my ShoeGame!",
+    "POST_IMAGE_LINK": "https://unsplash.com/photos/BWPqHZBhMVA",
+    "POST_SCORE": 678
+  },
+  {
+    "ID": 2,
+    "NAME": "William Johnson",
+    "USERNAME": "willywonks4u",
+    "EMAIL": "willywonks4u@gmail.com",
+    "USER_RATING": 3.97,
+    "POST_ID": 2368,
+    "POST_CONTENT": "Fresh to death.",
+    "POST_IMAGE_LINK": "https://unsplash.com/photos/BWPqHZBhMVA",
+    "POST_SCORE": 678
+  },
+  {
+    "ID": 3,
+    "NAME": "Jane Doe",
+    "USERNAME": "janedoe1999",
+    "EMAIL": "janedoe1999@gmail.com",
+    "USER_RATING": 4.79,
+    "POST_ID": 2370,
+    "POST_CONTENT": "Classics!",
+    "POST_IMAGE_LINK": "https://unsplash.com/photos/ow8_bDdz80o",
+    "POST_SCORE": 802
+  }
+]

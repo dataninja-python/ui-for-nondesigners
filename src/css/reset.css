@@ -1,0 +1,19 @@
+/*
+* Reset V0.0.0.1
+* Pre-processing CSS to reset base defaults.
+* Copyright 2023, Akpovogho "AJ" Igherighe
+* Free to use as long as updates are shared back with this open-source project.
+* https://github.com/dataninja-python/ui-for-nondesigners.git
+* 07/23/2023
+*/
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+/* By default HTML elements are centered */
+body {
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=reset.css.map */
